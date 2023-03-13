@@ -1,0 +1,9 @@
+.idea/
+build/
+*.elf
+*.elf.map
+*.fake.self
+*.pkg
+*.self
+compile_commands.json
+**/a.out
